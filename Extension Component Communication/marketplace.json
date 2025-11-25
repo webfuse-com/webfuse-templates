@@ -3,7 +3,14 @@
     "category": "Augmentation",
     "plan": "Forge",
     "add-ons": [],
+<<<<<<< HEAD
     "icon": "",
     "button_link": ""
   }
 ]
+=======
+    "icon": "garden:speech-bubble-conversation-stroke-16",
+    "button_link": ""
+  }
+]
+>>>>>>> 9d1ea34f311feeb57b0701023809e03ce4b55953
